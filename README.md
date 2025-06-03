@@ -5,7 +5,7 @@ npm install
 ```
 
 ### BEFORE RUNNING
-make sure to paste the images you want to be translated to base64 public directory otherwise it will not work. 
+make sure to create `public` directory and paste the images you want to be translated to base64 otherwise it will not work. 
 
 ```
 node index.js
